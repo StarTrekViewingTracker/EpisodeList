@@ -1,4 +1,4 @@
-# Star Trak - The Decades
+# Star Trek - The Decades
 
 ## [1960s](ST-1960.md)
 ## [1970s](ST-1970.md)
