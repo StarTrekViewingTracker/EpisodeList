@@ -374,16 +374,88 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Emissary, Part I ||
+| 2 | Emissary, Part I ||
+| 3 | Past Prologue ||
+| 4 | A Man Alone ||
+| 5 | Babel ||
+| 6 | Captive Pursuit ||
+| 7 | Q-Less ||
+| 8 | Dax ||
+| 9 | The Passenger ||
+| 10 | Move Along Home ||
+| 11 | The Nagus ||
+| 12 | Vortex ||
+| 13 | Battle Lines ||
+| 14 | The Storyteller ||
+| 15 | Progress ||
+| 16 | If Wishes Were Horses ||
+| 17 | The Forsaken ||
+| 18 | Dramatis Personae ||
+| 19 | Duet ||
+| 20 | In the Hands of the Prophets ||
 
 ### Season 2 (1993–94)
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | The Homecoming ||
+| 2 | The Circle ||
+| 3 | The Siege ||
+| 4 | Invasive Procedures ||
+| 5 | Cardassians ||
+| 6 | Melora ||
+| 7 | Rules of Acquisition ||
+| 8 | Necessary Evil ||
+| 9 | Second Sight ||
+| 10 | Sanctuary ||
+| 11 | Rivals ||
+| 12 | The Alternate ||
+| 13 | Armageddon Game ||
+| 14 | Whispers ||
+| 15 | Paradise ||
+| 16 | Shadowplay ||
+| 17 | Playing God ||
+| 18 | Profit and Loss ||
+| 19 | Blood Oath ||
+| 20 | The Maquis, Part I ||
+| 21 | The Maquis, Part II ||
+| 22 | The Wire ||
+| 23 | Crossover ||
+| 24 | The Collaborator ||
+| 25 | Tribunal ||
+| 26 | The Jem'Hadar ||
 
 ### Season 3 (1994–95)
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | The Search, Part I ||
+| 2 | The Search, Part II ||
+| 3 | The House of Quark ||
+| 4 | Equilibrium ||
+| 5 | Second Skin ||
+| 6 | The Abandoned ||
+| 7 | Civil Defense ||
+| 8 | Meridian ||
+| 9 | Defiant ||
+| 10 | Fascination ||
+| 11 | Past Tense: Part I ||
+| 12 | Past Tense: Part II ||
+| 13 | Life Support ||
+| 14 | Heart of Stone ||
+| 15 | Destiny ||
+| 16 | Prophet Motive ||
+| 17 | Visionary ||
+| 18 | Distant Voices ||
+| 19 | Through the Looking Glass ||
+| 20 | Improbable Cause ||
+| 21 | The Die Is Cast ||
+| 22 | Explorers ||
+| 23 | Family Business ||
+| 24 | Shakaar ||
+| 25 | Facets ||
+| 26 | The Adversary ||
 
 ## Star Trek: Voyager (VOY)
 
@@ -391,16 +463,84 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Caretaker, Part I ||
+| 2 | Caretaker, Part II ||
+| 3 | Parallax ||
+| 4 | Time and Again ||
+| 5 | Phage ||
+| 6 | The Cloud ||
+| 7 | Eye of the Needle ||
+| 8 | Ex Post Facto ||
+| 9 | Emanations ||
+| 10 | Prime Factors ||
+| 11 | State of Flux ||
+| 12 | Heroes and Demons ||
+| 13 | Cathexis ||
+| 14 | Faces ||
+| 15 | Jetrel ||
+| 16 | Learning Curve ||
 
 ### Season 2 (1995–96)
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | The 37's ||
+| 2 | Initiations ||
+| 3 | Projections ||
+| 4 | Elogium ||
+| 5 | Non Sequitur ||
+| 6 | Twisted ||
+| 7 | Parturition ||
+| 8 | Persistence of Vision ||
+| 9 | Tattoo ||
+| 10 | Cold Fire ||
+| 11 | Maneuvers ||
+| 12 | Resistance ||
+| 13 | Prototype ||
+| 14 | Alliances ||
+| 15 | Threshold ||
+| 16 | Meld ||
+| 17 | Dreadnought ||
+| 18 | Death Wish ||
+| 19 | Lifesigns ||
+| 20 | Investigations ||
+| 21 | Deadlock ||
+| 22 | Innocence ||
+| 23 | The Thaw ||
+| 24 | Tuvix ||
+| 25 | Resolutions ||
+| 26 | Basics, Part I ||
 
 ### Season 3 (1996–97) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Basics, Part II ||
+| 2 | Flashback ||
+| 3 | The Chute ||
+| 4 | The Swarm ||
+| 5 | False Profits ||
+| 6 | Remember ||
+| 7 | Sacred Ground ||
+| 8 | Future's End, Part I ||
+| 9 | Future's End, Part II ||
+| 10 | Warlord ||
+| 11 | The Q and the Grey ||
+| 12 | Macrocosm ||
+| 13 | Fair Trade ||
+| 14 | Alter Ego ||
+| 15 | Coda ||
+| 16 | Blood Fever ||
+| 17 | Unity ||
+| 18 | Darkling ||
+| 19 | Rise ||
+| 20 | Favorite Son ||
+| 21 | Before and After ||
+| 22 | Real Life ||
+| 23 | Distant Origin ||
+| 24 | Displaced ||
+| 25 | Worst Case Scenario ||
+| 26 | Scorpion, Part I ||
 
 ## Star Trek Movies
 
@@ -416,16 +556,94 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | The Way of the Warrior, Part I ||
+| 2 | The Way of the Warrior, Part II ||
+| 3 | The Visitor ||
+| 4 | Hippocratic Oath ||
+| 5 | Indiscretion ||
+| 6 | Rejoined ||
+| 7 | Starship Down ||
+| 8 | Little Green Men ||
+| 9 | The Sword of Kahless ||
+| 10 | Our Man Bashir ||
+| 11 | Homefront ||
+| 12 | Paradise Lost ||
+| 13 | Crossfire ||
+| 14 | Return to Grace ||
+| 15 | Sons of Mogh ||
+| 16 | Bar Association ||
+| 17 | Accession ||
+| 18 | Rules of Engagement ||
+| 19 | Hard Time ||
+| 20 | Shattered Mirror ||
+| 21 | The Muse ||
+| 22 | For the Cause ||
+| 23 | To the Death ||
+| 24 | The Quickening ||
+| 25 | Body Parts ||
+| 26 | Broken Link ||
 
 ### Season 5 (1996–97) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Apocalypse Rising ||
+| 2 | The Ship ||
+| 3 | Looking for par'Mach in All the Wrong Places ||
+| 4 | ...Nor the Battle to the Strong ||
+| 5 | The Assignment ||
+| 6 | Trials and Tribble-ations ||
+| 7 | Let He Who Is Without Sin... ||
+| 8 | Things Past ||
+| 9 | The Ascent ||
+| 10 | Rapture ||
+| 11 | The Darkness and the Light ||
+| 12 | The Begotten ||
+| 13 | For the Uniform ||
+| 14 | In Purgatory's Shadow ||
+| 15 | By Inferno's Light ||
+| 16 | Doctor Bashir, I Presume? ||
+| 17 | A Simple Investigation ||
+| 18 | Business as Usual ||
+| 19 | Ties of Blood and Water ||
+| 20 | Ferengi Love Songs ||
+| 21 | Soldiers of the Empire ||
+| 22 | Children of Time ||
+| 23 | Blaze of Glory ||
+| 24 | Empok Nor ||
+| 25 | In the Cards ||
+| 26 | Call to Arms ||
 
 ### Season 6 (1997–98) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | A Time to Stand ||
+| 2 | Rocks and Shoals ||
+| 3 | Sons and Daughters ||
+| 4 | Behind the Lines ||
+| 5 | Favor the Bold ||
+| 6 | Sacrifice of Angels ||
+| 7 | You Are Cordially Invited ||
+| 8 | Resurrection ||
+| 9 | Statistical Probabilities ||
+| 10 | The Magnificent Ferengi ||
+| 11 | Waltz ||
+| 12 | Who Mourns for Morn? ||
+| 13 | Far Beyond the Stars ||
+| 14 | One Little Ship ||
+| 15 | Honor Among Thieves ||
+| 16 | Change of Heart ||
+| 17 | Wrongs Darker Than Death or Night ||
+| 18 | Inquisition ||
+| 19 | In the Pale Moonlight ||
+| 20 | His Way ||
+| 21 | The Reckoning ||
+| 22 | Valiant ||
+| 23 | Profit and Lace ||
+| 24 | Time's Orphan ||
+| 25 | The Sound of Her Voice ||
+| 26 | Tears of the Prophets ||
 
 ## Star Trek: Voyager (VOY)
 
@@ -433,11 +651,63 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Scorpion, Part II ||
+| 2 | The Gift ||
+| 3 | Day of Honor ||
+| 4 | Nemesis ||
+| 5 | Revulsion ||
+| 6 | The Raven ||
+| 7 | Scientific Method ||
+| 8 | Year of Hell, Part I ||
+| 9 | Year of Hell, Part II ||
+| 10 | Random Thoughts ||
+| 11 | Concerning Flight ||
+| 12 | Mortal Coil ||
+| 13 | Waking Moments ||
+| 14 | Message in a Bottle ||
+| 15 | Hunters ||
+| 16 | Prey ||
+| 17 | Retrospect, Part I ||
+| 18 | Retrospect, Part II ||
+| 19 | The Killing Game ||
+| 20 | Vis à Vis ||
+| 21 | The Omega Directive ||
+| 22 | Unforgettable ||
+| 23 | Living Witness ||
+| 24 | Demon ||
+| 25 | One ||
+| 26 | Hope and Fear ||
 
 ### Season 5 (1998–99) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Night ||
+| 2 | Drone ||
+| 3 | Extreme Risk ||
+| 4 | In the Flesh ||
+| 5 | Once Upon a Time ||
+| 6 | Timeless ||
+| 7 | Infinite Regress ||
+| 8 | Nothing Human ||
+| 9 | Thirty Days ||
+| 10 | Counterpoint ||
+| 11 | Latent Image ||
+| 12 | Bride of Chaotica! ||
+| 13 | Gravity ||
+| 14 | Bliss ||
+| 15 | Dark Frontier ||
+| 16 | Dark Frontier ||
+| 17 | The Disease ||
+| 18 | Course: Oblivion ||
+| 19 | The Fight ||
+| 20 | Think Tank ||
+| 21 | Juggernaut ||
+| 22 | Someone to Watch Over Me ||
+| 23 | 11:59 ||
+| 24 | Relativity ||
+| 25 | Warhead ||
+| 26 | Equinox, Part I ||
 
 ## Star Trek: Deep Space Nine (DS9)
 
@@ -445,6 +715,32 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Image in the Sand ||
+| 2 | Shadows and Symbols ||
+| 3 | Afterimage ||
+| 4 | Take Me Out to the Holosuite ||
+| 5 | Chrysalis ||
+| 6 | Treachery, Faith and the Great River ||
+| 7 | Once More unto the Breach ||
+| 8 | The Siege of AR-558 ||
+| 9 | Covenant ||
+| 10 | It's Only a Paper Moon ||
+| 11 | Prodigal Daughter ||
+| 12 | The Emperor's New Cloak ||
+| 13 | Field of Fire ||
+| 14 | Chimera ||
+| 15 | Badda-Bing Badda-Bang ||
+| 16 | Inter Arma Enim Silent Leges ||
+| 17 | Penumbra ||
+| 18 | 'Til Death Do Us Part ||
+| 19 | Strange Bedfellows ||
+| 20 | The Changing Face of Evil ||
+| 21 | When It Rains... ||
+| 22 | Tacking into the Wind ||
+| 23 | Extreme Measures ||
+| 24 | The Dogs of War ||
+| 25 | What You Leave Behind, Part I ||
+| 26 | What You Leave Behind, Part II ||
 
 ## Star Trek: Voyager (VOY)
 
@@ -452,11 +748,62 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
-
+| 1 | Equinox, Part II ||
+| 2 | Survival Instinct ||
+| 3 | Barge of the Dead ||
+| 4 | Tinker, Tenor, Doctor, Spy ||
+| 5 | Alice ||
+| 6 | Riddles ||
+| 7 | Dragon's Teeth ||
+| 8 | One Small Step ||
+| 9 | The Voyager Conspiracy ||
+| 10 | Pathfinder ||
+| 11 | Fair Haven ||
+| 12 | Blink of an Eye ||
+| 13 | Virtuoso ||
+| 14 | Memorial ||
+| 15 | Tsunkatse ||
+| 16 | Collective ||
+| 17 | Spirit Folk ||
+| 18 | Ashes to Ashes ||
+| 19 | Child's Play ||
+| 20 | Good Shepherd ||
+| 21 | Live Fast and Prosper ||
+| 22 | Muse ||
+| 23 | Fury ||
+| 24 | Life Line ||
+| 25 | The Haunting of Deck Twelve ||
+| 26 | Unimatrix Zero, Part I ||
 ### Season 7 (2000–01) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Unimatrix Zero, Part II ||
+| 2 | Imperfection ||
+| 3 | Drive ||
+| 4 | Repression ||
+| 5 | Critical Care ||
+| 6 | Inside Man ||
+| 7 | Body and Soul ||
+| 8 | Nightingale ||
+| 9 | Flesh and Blood, Part I ||
+| 10 | Flesh and Blood, Part II ||
+| 11 | Shattered ||
+| 12 | Lineage ||
+| 13 | Repentance ||
+| 14 | Prophecy ||
+| 15 | The Void ||
+| 16 | Workforce, Part I ||
+| 17 | Workforce, Part II ||
+| 18 | Human Error ||
+| 19 | Q2 ||
+| 20 | Author, Author ||
+| 21 | Friendship One ||
+| 22 | Natural Law ||
+| 23 | Homestead ||
+| 24 | Renaissance Man ||
+| 25 | Endgame, Part I ||
+| 26 | Endgame, Part II ||
 
 ## Star Trek Movies
 
@@ -472,21 +819,119 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Broken Bow, Part I ||
+| 2 | Broken Bow, Part II ||
+| 3 | Fight or Flight ||
+| 4 | Strange New World ||
+| 5 | Unexpected ||
+| 6 | Terra Nova ||
+| 7 | The Andorian Incident ||
+| 8 | Breaking the Ice ||
+| 9 | Civilization ||
+| 10 | Fortunate Son ||
+| 11 | Cold Front ||
+| 12 | Silent Enemy ||
+| 13 | Dear Doctor ||
+| 14 | Sleeping Dogs ||
+| 15 | Shadows of P'Jem ||
+| 16 | Shuttlepod One ||
+| 17 | Fusion ||
+| 18 | Rogue Planet ||
+| 19 | Acquisition ||
+| 20 | Oasis ||
+| 21 | Detained ||
+| 22 | Vox Sola ||
+| 23 | Fallen Hero ||
+| 24 | Desert Crossing ||
+| 25 | Two Days and Two Nights ||
+| 26 | Shockwave, Part I ||
 
 ### Season 2 (2002–03) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Shockwave: Part II ||
+| 2 | Carbon Creek ||
+| 3 | Minefield ||
+| 4 | Dead Stop ||
+| 5 | A Night in Sickbay ||
+| 6 | Marauders ||
+| 7 | The Seventh ||
+| 8 | The Communicator ||
+| 9 | Singularity ||
+| 10 | Vanishing Point ||
+| 11 | Precious Cargo ||
+| 12 | The Catwalk ||
+| 13 | Dawn ||
+| 14 | Stigma ||
+| 15 | Cease Fire ||
+| 16 | Future Tense ||
+| 17 | Canamar ||
+| 18 | The Crossing ||
+| 19 | Judgment ||
+| 20 | Horizon ||
+| 21 | The Breach ||
+| 22 | Cogenitor ||
+| 23 | Regeneration ||
+| 24 | First Flight ||
+| 25 | Bounty ||
+| 26 | The Expanse ||
 
 ### Season 3 (2003–04) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | The Xindi ||
+| 2 | Anomaly ||
+| 3 | Extinction ||
+| 4 | Rajiin ||
+| 5 | Impulse ||
+| 6 | Exile ||
+| 7 | The Shipment ||
+| 8 | Twilight ||
+| 9 | North Star ||
+| 10 | Similitude ||
+| 11 | Carpenter Street ||
+| 12 | Chosen Realm ||
+| 13 | Proving Ground ||
+| 14 | Stratagem ||
+| 15 | Harbinger ||
+| 16 | Doctor's Orders ||
+| 17 | Hatchery ||
+| 18 | Azati Prime ||
+| 19 | Damage ||
+| 20 | The Forgotten ||
+| 21 | E² ||
+| 22 | The Council ||
+| 23 | Countdown ||
+| 24 | Zero Hour ||
 
 ### Season 4 (2004–05) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Storm Front, Part I ||
+| 2 | Storm Front, Part II ||
+| 3 | Home ||
+| 4 | Borderland ||
+| 5 | Cold Station 12 ||
+| 6 | The Augments ||
+| 7 | The Forge ||
+| 8 | Awakening ||
+| 9 | Kir'Shara ||
+| 10 | Daedalus ||
+| 11 | Observer Effect ||
+| 12 | Babel One ||
+| 13 | United ||
+| 14 | The Aenar ||
+| 15 | Affliction ||
+| 16 | Divergence ||
+| 17 | Bound ||
+| 18 | In a Mirror, Darkly, Part I ||
+| 19 | In a Mirror, Darkly, Part II ||
+| 20 | Demons ||
+| 21 | Terra Prime ||
+| 22 | These Are the Voyages... ||
 
 ## Star Trek Movies
 
@@ -510,11 +955,21 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
-
-### Season 2 (2018–19) 
-
-| Episode | Title | Rating | Notes |
-|--|--|--|--|
+| 1 | The Vulcan Hello ||
+| 2 | Battle at the Binary Stars ||
+| 3 | Context Is for Kings ||
+| 4 | The Butcher's Knife Cares Not for the Lamb's Cry ||
+| 5 | Choose Your Pain ||
+| 6 | Lethe ||
+| 7 | Magic to Make the Sanest Man Go Mad ||
+| 8 | Si Vis Pacem, Para Bellum ||
+| 9 | Into the Forest I Go ||
+| 10 | Despite Yourself ||
+| 11 | The Wolf Inside ||
+| 12 | Vaulting Ambition ||
+| 13 | What's Past Is Prologue ||
+| 14 | The War Without, The War Within ||
+| 15 | Will You Take My Hand? ||
 
 ## Star Trek: Short Treks
 
@@ -522,6 +977,44 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Runaway ||
+| 2 | Calypso ||
+| 3 | The Brightest Star ||
+| 4 | The Escape Artist ||
+
+## Star Trek: Discovery (DIS)
+
+### Season 2 (2018–19) 
+
+| Episode | Title | Rating | Notes |
+|--|--|--|--|
+| 1 | Brother ||
+| 2 | New Eden ||
+| 3 | Point of Light ||
+| 4 | An Obol for Charon ||
+| 5 | Saints of Imperfection ||
+| 6 | The Sound of Thunder ||
+| 7 | Light and Shadows ||
+| 8 | If Memory Serves ||
+| 9 | Project Daedalus ||
+| 10 | The Red Angel ||
+| 11 | Perpetual Infinity ||
+| 12 | Through the Valley of Shadows ||
+| 13 | Such Sweet Sorrow, Part I ||
+| 14 | Such Sweet Sorrow, Part II ||
+
+## Star Trek: Short Treks
+
+### Season 2 (2019–20) |
+
+| Episode | Title | Rating | Notes |
+|--|--|--|--|
+| 1 | Q&A ||
+| 2 | The Trouble with Edward ||
+| 3 | Ask Not ||
+| 4 | Ephraim and Dot ||
+| 5 | The Girl Who Made the Stars ||
+| 6 | Children of Mars ||
 
 # **2020s**
 
@@ -531,16 +1024,46 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Remembrance ||
+| 2 | Maps and Legends ||
+| 3 | The End Is the Beginning ||
+| 4 | Absolute Candor ||
+| 5 | Stardust City Rag ||
+| 6 | The Impossible Box ||
+| 7 | Nepenthe ||
+| 8 | Broken Pieces ||
+| 9 | Et in Arcadia Ego, Part I ||
+| 10 | Et in Arcadia Ego, Part II ||
 
 ### Season 2 (2022)
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | The Star Gazer ||
+| 2 | Penance ||
+| 3 | Assimilation ||
+| 4 | Watcher ||
+| 5 | Fly Me to the Moon ||
+| 6 | Two of One ||
+| 7 | Monsters ||
+| 8 | Mercy ||
+| 9 | Hide and Seek ||
+| 10 | Farewell ||
 
 ### Season 3 (2023) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | The Next Generation ||
+| 2 | Disengage ||
+| 3 | Seventeen Seconds ||
+| 4 | No Win Scenario ||
+| 5 | Imposters ||
+| 6 | The Bounty ||
+| 7 | Dominion ||
+| 8 | Surrender ||
+| 9 | Võx ||
+| 10 | The Last Generation ||
 
 ## Star Trek: Discovery (DIS)
 
@@ -548,8 +1071,37 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | That Hope Is You, Part 1 ||
+| 2 | Far from Home ||
+| 3 | People of Earth ||
+| 4 | Forget Me Not ||
+| 5 | Die Trying ||
+| 6 | Scavengers ||
+| 7 | Unification III ||
+| 8 | The Sanctuary ||
+| 9 | Terra Firma, Part I ||
+| 10 | Terra Firma, Part II ||
+| 11 | Su'Kal ||
+| 12 | There Is a Tide... ||
+| 13 | That Hope Is You, Part 2 ||
 
 ### Season 4 (2021–22)
+
+| Episode | Title | Rating | Notes |
+|--|--|--|--|
+| 1 | Kobayashi Maru ||
+| 2 | Anomaly ||
+| 3 | Choose to Live ||
+| 4 | All Is Possible ||
+| 5 | The Examples ||
+| 6 | Stormy Weather ||
+| 7 | ...But to Connect ||
+| 8 | All In ||
+| 9 | Rubicon ||
+| 10 | The Galactic Barrier ||
+| 11 | Rosetta ||
+| 12 | Species Ten-C ||
+| 13 | Coming Home ||
 
 ## Star Trek: Lower Decks (LD)
 
@@ -557,21 +1109,61 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Second Contact ||
+| 2 | Envoys ||
+| 3 | Temporal Edict ||
+| 4 | Moist Vessel ||
+| 5 | Cupid's Errant Arrow ||
+| 6 | Terminal Provocations ||
+| 7 | Much Ado About Boimler ||
+| 8 | Veritas ||
+| 9 | Crisis Point ||
+| 10 | No Small Parts ||
 
 ### Season 2 (2021) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Strange Energies ||
+| 2 | Kayshon, His Eyes Open ||
+| 3 | We'll Always Have Tom Paris ||
+| 4 | Mugato, Gumato ||
+| 5 | An Embarrassment of Dooplers ||
+| 6 | The Spy Humongous ||
+| 7 | Where Pleasant Fountains Lie ||
+| 8 | I, Excretus ||
+| 9 | wej Duj ||
+| 10 | First First Contact ||
 
 ### Season 3 (2022) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Grounded ||
+| 2 | The Least Dangerous Game ||
+| 3 | Mining the Mind's Mines ||
+| 4 | Room for Growth ||
+| 5 | Reflections ||
+| 6 | Hear All, Trust Nothing ||
+| 7 | A Mathematically Perfect Redemption ||
+| 8 | Crisis Point 2: Paradoxus ||
+| 9 | Trusted Sources ||
+| 10 | The Stars at Night ||
 
 ### Season 4 (2023) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Twovix ||
+| 2 | I Have No Bones Yet I Must Flee ||
+| 3 | In the Cradle of Vexilon ||
+| 4 | Something Borrowed, Something Green ||
+| 5 | Empathological Fallacies ||
+| 6 | Parth Ferengi's Heart Place ||
+| 7 | A Few Badgeys More ||
+| 8 | Caves ||
+| 9 | The Inner Fight ||
+| 10 | Old Friends, New Planets ||
 
 ## Star Trek: Strange New Worlds (SNW)
 
@@ -579,19 +1171,112 @@
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Strange New Worlds ||
+| 2 | Children of the Comet ||
+| 3 | Ghosts of Illyria ||
+| 4 | Memento Mori ||
+| 5 | Spock Amok ||
+| 6 | Lift Us Where Suffering Cannot Reach ||
+| 7 | The Serene Squall ||
+| 8 | The Elysian Kingdom ||
+| 9 | All Those Who Wander ||
+| 10 | A Quality of Mercy ||
 
 ### Season 2 (2023) 
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | The Broken Circle ||
+| 2 | Ad Astra per Aspera ||
+| 3 | Tomorrow and Tomorrow and Tomorrow ||
+| 4 | Among the Lotus Eaters ||
+| 5 | Charades ||
+| 6 | Lost in Translation ||
+| 7 | Those Old Scientists ||
+| 8 | Under the Cloak of War ||
+| 9 | Subspace Rhapsody ||
+| 10 | Hegemony ||
 
 ## Star Trek: Prodigy (PRO)
 
-### Season 1 (2021–23)
+### Season 1 (2021–22)
 
 | Episode | Title | Rating | Notes |
 |--|--|--|--|
+| 1 | Lost and Found, Part I ||
+| 2 | Lost and Found, Part II ||
+| 3 | Starstruck ||
+| 4 | Dream Catcher ||
+| 5 | Terror Firma ||
+| 6 | Kobayashi ||
+| 7 | First Con-tact ||
+| 8 | Time Amok ||
+| 9 | A Moral Star, Part I ||
+| 10 | A Moral Star, Part II ||
+| 11 | Asylum ||
+| 12 | Let Sleeping Borg Lie ||
+| 13 | All the World's a Stage ||
+| 14 | Crossroads ||
+| 15 | Masquerade ||
+| 16 | Preludes ||
+| 17 | Ghost in the Machine ||
+| 18 | Mindwalk ||
+| 19 | Supernova, Part I ||
+| 20 | Supernova, Part II ||
+
+### Season 2 (2024)
+
+| Episode | Title | Rating | Notes |
+|--|--|--|--|
+| 1 | Into the Breach, Part I ||
+| 2 | Into the Breach, Part II ||
+| 3 | Who Saves the Saviors ||
+| 4 | Temporal Mechanics 101 ||
+| 5 | Observer's Paradox ||
+| 6 | Imposter Syndrome ||
+| 7 | The Fast and the Curious ||
+| 8 | Is There in Beauty No Truth? ||
+| 9 | The Devourer of All Things, Part I ||
+| 10 | The Devourer of All Things, Part II ||
+| 11 | Last Flight of the Protostar, Part I ||
+| 12 | Last Flight of the Protostar, Part II ||
+| 13 | A Tribble Called Quest ||
+| 14 | Cracked Mirror ||
+| 15 | Ascension, Part I ||
+| 16 | Ascension, Part II ||
+| 17 | Brink ||
+| 18 | Touch of Grey ||
+| 19 | Ouroboros, Part I ||
+| 20 | Ouroboros, Part II ||
+
+## Star Trek: Lower Decks (LD)
+
+### Season 5 (2024)
+| Episode | Title | Rating | Notes |
+|--|--|--|--|
+| 1 | Dos Cerritos ||
+| 2 | Shades of Green ||
+| 3 | The Best Exotic Nanite Hotel ||
+| 4 | A Farewell To Farms ||
+| 5 | Starbase 80?! ||
+| 6 | Of Gods and Angles ||
+| 7 | Fully Dilated ||
+| 8 | Upper Decks ||
+| 9 | Fissure Quest ||
+| 10 | The New Next Generation ||
 
 ## Star Trek: Discovery (DIS)
 
-### Season 5 (2024, Planned Release)
+### Season 5 (2024)
+| Episode | Title | Rating | Notes |
+|--|--|--|--|
+| 1 | Red Directive ||
+| 2 | Under the Twin Moons ||
+| 3 | Jinaal ||
+| 4 | Face the Strange ||
+| 5 | Mirrors ||
+| 6 | Whistlespeak ||
+| 7 | Erigah ||
+| 8 | Labyrinths ||
+| 9 | Lagrange Point ||
+| 10 | Life, Itself ||
